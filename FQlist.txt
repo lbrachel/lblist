@@ -1,15 +1,74 @@
-!著名站点
-||google.com
-||youtube.com
-||eliyar.biz
+[AutoProxy 0.0.0]
 
-!工作需要
-||flaticon.com
-||icons8.com
+! HomePage: https://github.com/lbrachel/lblist
+! URL: https://raw.githubusercontent.com/lbrachel/lblist/master/FQlist.txt
 
-!资源加载
-||ytimg.com
-||gstatic.com
-||youtube-nocookie.com
-||ggpht.com
-||googlevideo.com
+!##############General List Start###############
+!!---Google---
+||gmail.com
+||gmodules.com
+||godoc.org
+||golang.org
+||goo.gl
+.google.ae
+.google.as
+.google.am
+.google.cat
+.google.cd
+.google.ci
+.google.co.id
+.google.co.jp
+.google.co.kr
+.google.co.ma
+.google.co.uk
+.google.com
+.google.de
+.google.dj
+.google.dk
+.google.es
+.google.fi
+.google.fm
+.google.fr
+.google.gg
+.google.ie
+.google.is
+.google.it
+.google.ms
+.google.nl
+.google.nu
+.google.no
+.google.ro
+.google.sc
+.google.sk
+.google.sm
+.google.tk
+.google.to
+.google.tt
+.google.vu
+.google.ws
+
+!##############General List End#################
+
+!###########Supplemental List Start#############
+!###########Supplemental List End###############
+
+!################Whitelist Start################
+@@||aliyun.com
+@@||baidu.com
+@@||http2.golang.org
+@@||gov.cn
+@@||bt.neu6.edu.cn
+@@||qq.com
+@@||sina.cn
+@@||sina.com.cn
+@@||sogou.com
+@@||so.com
+@@||soso.com
+@@||taobao.com
+@@||weibo.com
+@@||yahoo.cn
+@@||youdao.com
+@@||zhongsou.com
+@@|http://ime.baidu.jp
+!################Whitelist End##################
+!---------------------EOF-----------------------
